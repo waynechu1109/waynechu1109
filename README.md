@@ -20,7 +20,7 @@
 </table>
 
 ## 📬 Connect With Me
-- **Email**: waynechu1109@stanford.edu  
+- **Email**: waynechu@stanford.edu  
 - **Website**: [waynechu1109.github.io](https://waynechu1109.github.io)  
 - **LinkedIn**: [https://www.linkedin.com/in/waynechu1109/](https://www.linkedin.com/in/waynechu1109/)
 - **Facebook**: [https://www.facebook.com/waynechu.aviation/?locale=zh_TW](https://www.facebook.com/waynechu.aviation/?locale=zh_TW)
