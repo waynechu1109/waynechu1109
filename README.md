@@ -12,7 +12,7 @@
 <td>
 
 <a href="https://github.com/waynechu1109/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynechu1109&theme=buefy&layout=compact"/>
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynechu1109&theme=buefy&layout=compact"/>
 </a>
 
 </td>
