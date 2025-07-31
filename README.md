@@ -2,6 +2,8 @@
 
 I’m **Wayne Chu** — a Stanford MSEE student who is passionate about developing applications in robotics and computer vision. 
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynechu1109&theme=buefy&layout=compact"/>](https://github.com/waynechu1109/)
+
 <!-- ## 🚀 What I Do  
 I build **vision‑based AI systems** to tackle real‑world problems—most recently, a **Smart Fridge** prototype that recognizes food using camera input and suggests recipes to minimize waste.
 
@@ -29,6 +31,9 @@ If these vibe with you, let’s build something together! -->
 
 ## 🧠 A Bit About Me  
 I believe tech should be **playful**, **open**, and maybe a bit unexpected. When I’m not coding, I’m probably taking photos of airplanes. 
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=waynechu1109&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/waynechu1109/)
+
 
 <!-- ## 🔧 Key Projects
 
