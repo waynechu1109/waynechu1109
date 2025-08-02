@@ -4,9 +4,9 @@
 <tr>
 <td>
 
-- 🎓 &nbsp; Stanford University (Electrical Engineering) && NTHU (Electrical Engineering, Power Mechanical Engineering)
+- 🎓 &nbsp; Stanford University (Electrical Engineering) & NTHU (Electrical Engineering, Power Mechanical Engineering)
 - 🤖 &nbsp; Robotics & Computer Vision
-- 📷 &nbsp; Photography & aircrafts enthusiast 
+- 📷 &nbsp; Photography & Avgeek
 
 </td>
 <td>
@@ -19,12 +19,12 @@
 </tr>
 </table>
 
-## 📬 Connect With Me
+## 📬 &nbsp;Connect With Me
 - **Email**: waynechu@stanford.edu  
 - **Website**: [waynechu1109.github.io](https://waynechu1109.github.io)  
 - **LinkedIn**: [https://www.linkedin.com/in/waynechu1109/](https://www.linkedin.com/in/waynechu1109/)
 - **Facebook**: [https://www.facebook.com/waynechu.aviation/?locale=zh_TW](https://www.facebook.com/waynechu.aviation/?locale=zh_TW)
 - **Instagram**: [waynechu_aviation](https://www.instagram.com/waynechu_aviation/)
 
-## 🧠 A Bit About Me  
-I believe tech should be **playful**, **open**, and maybe a bit unexpected. When I’m not coding, I’m probably taking photos of airplanes. 
+## 🧠 &nbsp;A Bit About Me  
+I believe tech should be **playful**, **open**, and maybe a bit **unexpected**. When I’m not coding, I’m probably taking photos of airplanes. 
