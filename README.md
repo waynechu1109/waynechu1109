@@ -7,6 +7,7 @@
 - 🎓 &nbsp; Stanford University (Electrical Engineering) & NTHU (Electrical Engineering, Power Mechanical Engineering)
 - 🤖 &nbsp; Robotics & Computer Vision
 - 📷 &nbsp; Photography & Avgeek
+- 👓 &nbsp; Check more on my [LinkedIn](https://www.linkedin.com/in/waynechu1109/)...
 
 </td>
 <td>
@@ -27,4 +28,4 @@
 - **Instagram**: [waynechu_aviation](https://www.instagram.com/waynechu_aviation/)
 
 ## 🧠 &nbsp;A Bit About Me  
-I believe tech should be **playful**, **open**, and maybe a bit **unexpected**. When I’m not coding, I’m probably taking photos of airplanes. 
+I believe tech should be **playful**, **open**, and maybe a bit **unexpected**. When I’m not coding, I’m probably taking photos of aircrafts. 
