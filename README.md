@@ -1,5 +1,5 @@
 # Hi There! This is Wayne Chu 👋
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp; Who am I?
 <table>
 <tr>
 <td>
